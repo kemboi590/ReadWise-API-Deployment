@@ -1,5 +1,5 @@
 {
-  "name": "readwise-server",
+  "name": "readwiseapi",
   "version": "1.0.0",
   "description": "This is a server side for my readwise blog website",
   "main": "server.js",
@@ -8,8 +8,7 @@
     "node": ">=18.16.0"
   },
   "scripts": {
-    "start": "npm start",
-    "dev": "nodemon server.js"
+    "start": "node server.js"
   },
   "keywords": [],
   "author": "Brian Kemboi",
